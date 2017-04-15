@@ -1,0 +1,15 @@
+﻿Họ và tên            Chức vụ              Ngày sinh            Hệ số lương         
+Hồ Nhật Nam          Trưởng Phòng         2-3-1994             2                   
+Hồ Thanh Phong       Tổng Giám Đốc        29-8-1996            3.5                 
+Hồ Thị Kim Phượng    Phó Phòng            29-11-1994           1.7                 
+Lê Ánh               Nhân Viên            9-9-1997             1                   
+Lê Hoàng Tân         Trưởng Phòng         1-1-1996             2.2                 
+Lê Thị Kiều          Nhân Viên            1-12-1997            1.2                 
+Lê Thị Nhung         Nhân Viên            12-2-1997            1                   
+Lê Thị Thanh         Nhân Viên            12-12-1997           1.2                 
+Lê Văn An            Thư Ký               6-7-1995             1.5                 
+Lê Văn Cường         Nhân Viên            4-5-1997             1.2                 
+Nguyễn Hữu Nhân      Giám Đốc             9-8-1996             2.5                 
+Nguyễn Ngọc Vương    Nhân Viên            3-3-1997             1.3                 
+Phạm Quang Vinh      Phó Giám Đốc         21-11-1994           2.7                 
+Trần Ngọc Tuyên      Thư Ký               8-3-1993             1.6                 

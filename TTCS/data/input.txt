@@ -1,0 +1,56 @@
+﻿Hồ Thanh Phong
+Tổng Giám Đốc
+29 08 1996
+3.5
+Lê Hoàng Tân
+Trưởng Phòng
+01 01 1996
+2.2
+Trần Ngọc Tuyên
+Thư Ký
+08 03 1993
+1.6
+Phạm Quang Vinh
+Phó Giám Đốc
+21 11 1994
+2.7
+Nguyễn Ngọc Vương
+Nhân Viên
+03 03 1997
+1.3
+Lê Thị Thanh
+Nhân Viên
+12 12 1997
+1.2
+Lê Văn An
+Thư Ký
+06 07 1995
+1.5
+Lê Thị Nhung
+Nhân Viên
+12 2 1997
+1.0
+Lê Thị Kiều
+Nhân Viên
+1 12 1997
+1.2
+Lê Ánh
+Nhân Viên
+9 9 1997
+1.0
+Lê Văn Cường
+Nhân Viên
+4 5 1997
+1.2
+Nguyễn Hữu Nhân
+Giám Đốc
+09 08 1996
+2.5
+Hồ Nhật Nam
+Trưởng Phòng
+02 03 1994
+2.0
+Hồ Thị Kim Phượng
+Phó Phòng
+29 11 1994
+1.7
