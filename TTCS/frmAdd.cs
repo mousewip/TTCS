@@ -35,31 +35,40 @@ namespace TTCS
         private void btnAdd_Click(object sender, EventArgs e)
         {
             Staff staff = new Staff();
-            staff.Name = txtName.Text;
-            foreach (var item in Level.Instance.ListLevel)
+            try
             {
-                if (item.Key == cbbLevel.Text)
+                staff.Name = txtName.Text;
+                foreach (var item in Level.Instance.ListLevel)
                 {
-                    staff.Level = item;
-                    break;
+                    if (item.Key == cbbLevel.Text)
+                    {
+                        staff.Level = item;
+                        break;
+                    }
+                }
+                staff.DayOfBirth = new Date()
+                {
+                    Day = int.Parse(txtDay.Text),
+                    Month = int.Parse(txtMonth.Text),
+                    Year = int.Parse(txtYear.Text)
+                };
+                staff.Salary = double.Parse(txtSalary.Text, CultureInfo.InvariantCulture);
+                if (AddEvent != null)
+                {
+                    AddEvent(staff);
+                    Close();
+                }
+                else
+                {
+                    Close();
                 }
             }
-            staff.DayOfBirth = new Date()
+            catch (Exception ex)
             {
-                Day = int.Parse(txtDay.Text),
-                Month = int.Parse(txtMonth.Text),
-                Year = int.Parse(txtYear.Text)
-            };
-            staff.Salary = double.Parse(txtSalary.Text, CultureInfo.InvariantCulture);
-            if (AddEvent != null)
-            {
-                AddEvent(staff);
-                Close();
+               return;
             }
-            else
-            {
-                Close();
-            }
+            
+            
         }
     }
 }
